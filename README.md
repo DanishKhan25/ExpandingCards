@@ -23,6 +23,7 @@ JavaScript plays a vital role in handling user interactions and managing the car
 - Transition Effects:
 CSS transitions and animations are applied to create smooth and visually pleasing effects when the cards expand and shrink. These effects can be customized to match the overall design of the application.
 
+![image](https://github.com/DanishKhan25/ExpandingCards/assets/115468271/0db14935-c7e9-407e-b30e-507455c0d9b1)
 
 ## Installation
 
